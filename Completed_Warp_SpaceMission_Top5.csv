@@ -1,0 +1,6 @@
+"missiondate"|"missionid"|"destination"|"status"|"crewsize"|"durationdays"|"sucessrate"|"seccode"
+"2065-06-05"|"WGU-0200"|"Mars"|"Completed"|"4"|"1629"|"98.82"|"XRT-421-ZQP"
+"2066-01-01"|"RYL-8006"|"Mercury"|"Completed"|"4"|"1496"|"99.24"|"SUI-760-XEV"
+"2052-03-25"|"ZCJ-2052"|"Mercury"|"Completed"|"4"|"1494"|"64.83"|"OUD-245-NJH"
+"2065-12-27"|"VGA-2778"|"TRAPPIST-1e"|"Completed"|"2"|"1494"|"17.09"|"PSV-806-PFO"
+"2045-11-01"|"NBM-3709"|"Alpha Centauri"|"Completed"|"7"|"1493"|"0.59"|"BKB-185-EIR"
